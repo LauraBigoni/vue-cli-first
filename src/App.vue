@@ -19,7 +19,7 @@ export default {
 };
 </script>
 
-<style scoped>
+<style>
 #app {
   text-align: center;
   color: #194b4b;
